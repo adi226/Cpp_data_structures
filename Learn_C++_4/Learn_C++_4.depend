@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1567289551 source:e:\code_blocks_projects\learn_c++_4\src\hannah.cpp
+	"hannah.h"
+	<iostream>
+
+1567289536 e:\code_blocks_projects\learn_c++_4\include\hannah.h
+

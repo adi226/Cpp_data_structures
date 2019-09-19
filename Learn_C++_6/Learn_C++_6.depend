@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1567293095 source:e:\code_blocks_projects\learn_c++_6\src\mother.cpp
+	"mother.h"
+	<iostream>
+
+1567293095 e:\code_blocks_projects\learn_c++_6\include\mother.h
+
+1567293095 source:e:\code_blocks_projects\learn_c++_6\src\daughter.cpp
+	"daughter.h"
+	<iostream>
+
+1567293414 e:\code_blocks_projects\learn_c++_6\include\daughter.h
+	<mother.h>
+
