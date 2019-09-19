@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1567287267 source:e:\code_blocks_projects\learn_c++_2\src\birthday.cpp
+	<iostream>
+	"Birthday.h"
+
+1567287211 e:\code_blocks_projects\learn_c++_2\include\birthday.h
+
+1567284249 source:e:\code_blocks_projects\learn_c++_2\main.cpp
+	<iostream>
+	<Birthday.h>
+	<people.h>
+
+1567287365 e:\code_blocks_projects\learn_c++_2\include\people.h
+	<string>
+	"Birthday.h"
+
+1567287738 source:e:\code_blocks_projects\learn_c++_2\src\people.cpp
+	"people.h"
+	"Birthday.h"
+	<iostream>
+
